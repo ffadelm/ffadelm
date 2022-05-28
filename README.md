@@ -1,6 +1,6 @@
 ### Hi I'm Faysal Fadel Maulana 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffadelm&repo=ffadelm&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffadelm&theme=vue-dark" />
 <!--
 **ffadelm/ffadelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
