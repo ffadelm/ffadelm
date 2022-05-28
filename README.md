@@ -1,8 +1,13 @@
 ### Hi I'm Faysal Fadel Maulana 👋
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=vue-dark">    
-  <img  alt="ffadelm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ffadelm?cardType=level-alternate&theme=vue-dark" />  
-</a>
+# Analytics ⚙️
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=vue-dark">    
+    <img  alt="ffadelm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ffadelm?cardType=level-alternate&theme=vue-dark" />  
+  </a>
+</p>
+
 <!--
 **ffadelm/ffadelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
