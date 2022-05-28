@@ -3,7 +3,7 @@
 <a href="https://github.com/ffadelm/ffadelm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffadelm&show_icons=true&theme=vue-dark" />
 </a>
-<a href="#">
+<a href="#" style:"padding-5">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffadelm&langs_count=8" />
  </a>
 <!--
