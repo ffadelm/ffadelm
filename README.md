@@ -1,7 +1,7 @@
 ### Hi I'm Faysal Fadel Maulana 👋
 
 <a href="https://github.com/ffadelm/ffadelm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ffadelm&show_icons=true&theme=vue-dark" />
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ffadelm?cardType=level-alternate&theme=vue-dark)](https://git.io/awesome-stats-card)
 </a>
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffadelm" />
