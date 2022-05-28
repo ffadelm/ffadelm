@@ -1,9 +1,9 @@
 ### Hi I'm Faysal Fadel Maulana 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ffadelm/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffadelm&repo=github-readme-stats&theme=vue-dark" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/ffadelm/ffadelm.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffadelm&repo=anuraghazra.github.io&theme=vue-dark" />
 </a>
 <!--
