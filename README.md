@@ -1,7 +1,11 @@
 ### Hi I'm Faysal Fadel Maulana 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ffadelm&show_icons=true&theme=vue-dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffadelm">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffadelm&repo=github-readme-stats&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ffadelm&repo=anuraghazra.github.io&theme=vue-dark" />
+</a>
 <!--
 **ffadelm/ffadelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
