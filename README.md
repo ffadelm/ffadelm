@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffadelm&show_icons=true&locale=en&layout=compact" alt="ffadelm" /></p>
 
-<img align="center"  alt="ffadelm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ffadelm?cardType=level" />
+<img  alt="ffadelm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ffadelm?cardType=github" />
